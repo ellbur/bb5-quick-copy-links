@@ -1,0 +1,11 @@
+
+.quick-copy-button {
+  text-decoration: underline;
+  margin-left: 1em;
+  margin-right: 1em;
+  color: blue;
+}
+
+.quick-copy-button.done {
+  color: green;
+}
